@@ -1,0 +1,27 @@
+<!DOCTYPE >
+  <html lang="en">
+   <head>
+     <meta charset="UTF-8">
+     <title>CSS Box Model Example</title>
+     <style type="text/css">
+
+.example3 {
+  width:220px;
+  padding:0px 4px 40px 100px;
+  margin: -28px 0 -10px 100px;
+  background: #FF0;
+  border-top: 1px solid #000;
+  border-right: 4px dashed #900;
+  border-bottom: 8px double #60F;
+  border-left: 16px inset #6F3; }
+ </style>
+</head>
+
+<body>
+<h1>Box Model Example</h1><br>
+
+ <p class="example3">srinath<br>yogesh<br>vamsi</p>
+<p>&nbsp;</p>
+
+</body>
+</html>
